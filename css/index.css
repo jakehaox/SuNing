@@ -1,0 +1,26 @@
+/*头部样式*/
+.top .top-nav .content{
+	position: relative;
+	height: 36px;
+	float: left;
+	background-color: #f5f5f5;
+}
+.top .top-nav .content span{
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin-left: 207px;
+	font-size: 12px;
+	color: #8c668c;
+	height: 36px;
+	line-height: 36px;
+}
+.top .top-nav .content em.down{
+	display: inline-block;
+	font-size: 10px;
+	width: 10px;
+	color: #bbb;
+	vertical-align: middle;
+	-webkit-transform-origin: 50% 50%;
+	transition: transform 2s ease-in;
+}
